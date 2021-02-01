@@ -5,5 +5,6 @@ souredapple: https://souredapple.newgrounds.com/art
 Unknown:
 	Lunar_Deer: https://www.reddit.com/r/wallpaper/comments/cqngdo/lunar_deer_1280x800/
 	Fantasy Collection: https://www.reddit.com/r/wallpaper/comments/i7wd7l/fantasy_collection_3840x2160/
-	Husky_Walks_Across_A_Frozen_Lake_After_Rain: https://www.reddit.com/r/wallpapers/comments/3kxrj2/husky_walks_across_a_frozen_lake_after_rain/
+	Husky_Walks_Across_A_Frozen_Lake_After_Rain_1: https://www.reddit.com/r/wallpapers/comments/3kxrj2/husky_walks_across_a_frozen_lake_after_rain/
+	Husky_Walks_Across_A_Frozen_Lake_After_Rain_2: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn1.pri.org%2Fsites%2Fdefault%2Ffiles%2Fstory%2Fimages%2F01_feature.jpg&f=1&nofb=1
 	Pintrest_001: https://i.pinimg.com/originals/74/bf/f1/74bff12cb4065cf8287de89724823f2b.jpg
